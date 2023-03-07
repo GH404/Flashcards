@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Flashcard from './Flashcard';
-import '../FlashcardList.css';
+import '../FlashcardList.css'
 
 
 const FlashcardList = ({ cards }) => {
