@@ -4,7 +4,7 @@ Submitted by: **Gustavo Hernandez**
 
 This web app: **A Linux commands study deck**
 
-Time spent: **8** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -44,7 +44,6 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 Describe any challenges encountered while building the app.
 
 - I had a bit of trouble understanding and implementing the useState() hook.
-- I didn't have much time for styling, so I plan to improve the visual design later.
 
 ## License
 
