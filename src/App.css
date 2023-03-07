@@ -1,18 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f9f4ef;
+}
+
+h1 {
+  color: #020826;
+}
+h2, h3 {
+  color: #716040;
+}
+
 #root {
-    max-width: 1280px;
-    margin: 0 auto;
-    padding: 2rem;
-    text-align: center;
-    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-    color: black;
-    background-color: white;
-  }
-  
-  
-   body {
-    margin: 0;
-    display: flex;
-    place-items: center;
-    min-width: 320px;
-    min-height: 100vh;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

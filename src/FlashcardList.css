@@ -9,10 +9,9 @@
   }
   
   .flashcard-list button {
-    background-color: #4d989b;
-    border: none;
+    background-color: #f9f4ef;
     border-radius: 5px;
-    color: white;
+    color: black;
     cursor: pointer;
     font-size: 16px;
     margin: 0 10px;
@@ -20,5 +19,5 @@
   }
   
   .flashcard-list button:hover {
-    background-color: #4d989b;
+    background-color: #8c7851;
   }
