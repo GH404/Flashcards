@@ -44,6 +44,10 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 Describe any challenges encountered while building the app.
 
 - I had a bit of trouble understanding and implementing the useState() hook.
+- ToDo
+  - add more cards
+  - change color theme
+  - add answer input
 
 ## License
 
