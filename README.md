@@ -73,7 +73,7 @@ Submitted by: **Gustavo Hernandez**
 
 This web app: **A Linux commands study deck - now with user input!**
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
