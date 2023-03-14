@@ -4,64 +4,64 @@ import './App.css'
 
 const cards = [
   {
-    front: 'what does the "date" command do?',
-    back: 'displays current date, time and time zone',
+    front: 'displays current date, time and time zone',
+    back: 'date' ,
   },
   {
-    front: 'what does the "cal" command do?',
-    back: 'displays a mini calendar in console with current date highlighted',
+    front: 'displays a mini calendar in console with current date highlighted',
+    back: 'cal',
   },
   {
-    front: 'what does the "df" command do?',
-    back: 'displays current amount of free space on disk drives',
+    front: 'displays current amount of free space on disk drives',
+    back: 'df',
   },
   {
-    front: 'what does the "free" command do?',
-    back: 'displays amount of free RAM memory',
+    front: 'displays amount of free RAM memory',
+    back: 'free',
   },
   {
-    front: 'what does the "pwd" command do?',
-    back: 'displays current working directory',
+    front: 'displays current working directory',
+    back: 'pwd',
   },
   {
-    front: 'what does the "cd" command do?',
-    back: 'changes directory',
+    front: 'changes directory',
+    back: 'cd',
   },
   {
-    front: 'what does the "ls" command do?',
-    back: 'list directory contents',
+    front: 'list directory contents',
+    back: 'ls',
   },
   {
-    front: 'what does the "less" command do?',
-    back: 'view file contents in a paged format',
+    front: 'view file contents in a paged format',
+    back: 'less',
   },
   {
-    front: 'what does the "cp" command do?',
-    back: 'copy files and directories',
+    front: 'copy files and directories',
+    back: 'cp',
   },
   {
-    front: 'what does the "mv" command do?',
-    back: 'move/rename files and directories',
+    front: 'move/rename files and directories',
+    back: 'mv',
   },
   {
-    front: 'what does the "mkdir" command do?',
-    back: 'create directories',
+    front: 'create directories',
+    back: 'mkdir',
   },
   {
-    front: 'what does the "rm" command do?',
-    back: 'remove files and directories',
+    front: 'remove files and directories',
+    back: 'rm',
   },
   {
-    front: 'what does the "ln" command do?',
-    back: 'create hard and symbolic links',
+    front: 'create hard and symbolic links',
+    back: 'ln',
   },
   {
-    front: 'what does the "which" command do?',
-    back: 'displays which executable program will be executed',
+    front: 'displays which executable program will be executed',
+    back: 'which',
   },
   {
-    front: 'what does the "help" command do?',
-    back: 'get help for shell internal commands',
+    front: 'get help for shell internal commands',
+    back: 'help',
   },
 ];
 
